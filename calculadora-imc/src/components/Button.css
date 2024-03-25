@@ -1,0 +1,27 @@
+.action-controls button {
+    height: 40px;
+    width: 135px;
+    
+    font-size: 15pt;
+    color: #fff;
+}
+
+.action-controls #calc {
+    background-color: #77c700;
+    border: none;
+}
+.action-controls #limp {
+    background-color: #c20000;
+    border: none;
+}
+
+#calc:hover {
+    background-color: #67ac01;
+    transition: 0.3s;
+    cursor: pointer;
+}
+#limp:hover {
+    background-color:#a50000;
+    transition: 0.3s;
+    cursor: pointer;
+}
