@@ -25,3 +25,14 @@
     transition: 0.3s;
     cursor: pointer;
 }
+
+.return {
+    background-color: #c20000;
+    border: none;
+    height: 40px;
+    width: 300px;
+    color: #fff;
+    font-size: 16pt;
+    letter-spacing: 2px;
+
+}
